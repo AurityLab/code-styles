@@ -1,0 +1,15 @@
+{
+  "name": "@auritylab/eslint-config-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AurityLab/eslint-config-aurity.git",
+  "author": "AurityLab <info@auritylab.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "@auritylab/eslint-config-base": "^1.0.0",
+    "eslint-plugin-vue": "^4.7.1"
+  }
+}
