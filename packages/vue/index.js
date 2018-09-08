@@ -1,6 +1,6 @@
 module.exports = {
   "extends": [
-    "@auritylab/eslint-config-default",
+    "@auritylab/eslint-config-base",
     "plugin:vue/recommended",
   ],
   "parserOptions": {
