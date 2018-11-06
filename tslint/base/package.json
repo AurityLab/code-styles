@@ -1,0 +1,11 @@
+{
+  "name": "@auritylab/code-style-tslint",
+  "version": "1.0.0",
+  "main": "tslint.json",
+  "repository": "git@github.com:AurityLab/aurity-code-styles.git",
+  "author": "AurityLab <info@auritylab.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "tslint": "^5.11.0"
+  }
+}
