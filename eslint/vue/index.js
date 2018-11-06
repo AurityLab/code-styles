@@ -1,14 +1,8 @@
 module.exports = {
   "extends": [
-    "@auritylab/eslint-config-base",
+    "@auritylab/code-style-eslint",
     "plugin:vue/recommended",
   ],
-  "parserOptions": {
-    "parser": "babel-eslint",
-    "sourceType": "module",
-    "allowImportExportEverywhere": false,
-    "codeFrame": false
-  },
   "overrides": [
     {
       "files": ["*.vue"],

@@ -1,16 +1,15 @@
 {
-  "name": "@auritylab/eslint-config-vue",
-  "version": "1.0.1",
+  "name": "@auritylab/code-style-eslint-vue",
+  "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:AurityLab/eslint-config-aurity.git",
   "author": "AurityLab <info@auritylab.com>",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 5.8.0"
   },
-  "dependencies": {
+  "devDependencies": {
     "@auritylab/eslint-config-base": "^1.0.0",
     "eslint-plugin-vue": "^4.7.1"
-  },
-  "gitHead": "f3e93f4c12ac95f9f6709edb4e0d639c2a84c123"
+  }
 }
