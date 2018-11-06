@@ -1,10 +1,11 @@
 {
-  "name": "root",
+  "name": "aurity-code-styles",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.2.1"
+    "lerna": "^3.4.3"
   },
   "workspaces": [
-    "packages/*"
+    "eslint/*",
+    "tslint/*"
   ]
 }

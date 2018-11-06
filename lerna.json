@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "eslint/*",
+    "tslint/*"
   ],
   "version": "1.0.0",
   "npmClient": "yarn",
