@@ -1,6 +1,5 @@
 module.exports = {
   "extends": [
-    "@auritylab/code-style-eslint",
     "plugin:vue/recommended",
   ],
   "overrides": [
