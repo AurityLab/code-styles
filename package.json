@@ -2,7 +2,9 @@
   "name": "@auritylab/eslint-config",
   "version": "2.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint index.js rules/**/*"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.17.3",
