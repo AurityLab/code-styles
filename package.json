@@ -6,10 +6,8 @@
     "tslint/*"
   ],
   "scripts": {
-    "sort-package-json:all": "sort-package-json && sort-package-json tslint/base/package.json && sort-package-json eslint/base/package.json && sort-package-json eslint/vue/package.json"
   },
   "devDependencies": {
-    "lerna": "^3.4.3",
-    "sort-package-json": "^1.16.0"
+    "oao": "^1.6.0"
   }
 }
