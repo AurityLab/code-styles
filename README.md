@@ -6,6 +6,11 @@ A collection of ESLint configs for JavaScript, TypeScript and Vue. This configs 
 
 As each config requires different plugins and parsers they are listed as *optionalDependencies*. 
 
+## Available configs
+* [JavaScript](#javascript)
+* [TypeScript](#typescript)
+* [Vue (with JavaScript and TypeScript)](#vue)
+
 ## JavaScript
 This config currently fully inherits from [eslint-config-stanard](https://github.com/standard/eslint-config-standard).
 
