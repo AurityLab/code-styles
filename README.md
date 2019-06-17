@@ -11,7 +11,7 @@ This config currently fully inherits from [eslint-config-stanard](https://github
 
 ### Install
 ```bash
-$ yarn add -D @auritylab/code-styles eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+$ yarn add -D @auritylab/eslint-config eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
 ```
 
 ### ESLint config
@@ -28,7 +28,7 @@ This config currently fully inherits from [eslint-config-standard-with-typescrip
 
 ### Install
 ```bash
-$ yarn add -D @auritylab/code-styles @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
+$ yarn add -D @auritylab/eslint-config @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
 ```
 
 #### ESLint config
@@ -51,7 +51,7 @@ This config can be used in conjunction with [JavaScript](#javascript) or [TypeSc
 
 ### Install
 ```bash
-$ yarn add -D @auritylab/code-styles eslint-plugin-vue
+$ yarn add -D @auritylab/eslint-config eslint-plugin-vue
 ```
 
 
