@@ -5,6 +5,11 @@
   "scripts": {
     "lint": "eslint index.js rules/**/*"
   },
+  "files": [
+    "index.js",
+    "README.md",
+    "rules/"
+  ],
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.17.3",
