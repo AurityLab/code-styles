@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    './rules/javascript.js'
+    './config/javascript.js'
   ]
 }
