@@ -1,8 +1,6 @@
 {
   "name": "@auritylab/stylelint-config",
   "version": "2.0.0",
-  "license": "Apache-2.0",
-  "author": "AurityLab <info@auritylab.com>",
   "files": [
     "index.js",
     "README.md"

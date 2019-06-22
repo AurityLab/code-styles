@@ -1,6 +1,19 @@
 {
   "name": "@auritylab/code-styles",
   "private": true,
+  "license": "Apache-2.0",
+  "author": "AurityLab <info@auritylab.com>",
+  "keywords": [
+    "code-styles",
+    "auritylab"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AurityLab/code-styles"
+  },
+  "bugs": {
+    "url": "https://github.com/AurityLab/code-styles/issues"
+  },
   "workspaces": [
     "./eslint",
     "./stylelint"
