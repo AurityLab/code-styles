@@ -12,5 +12,18 @@
   },
   "peerDependencies": {
     "stylelint": "^10.0.0"
+  },
+  "keywords": [
+    "code-styles",
+    "auritylab"
+  ],
+  "author": "AurityLab <info@auritylab.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AurityLab/code-styles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AurityLab/code-styles"
   }
 }
