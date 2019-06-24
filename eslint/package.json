@@ -4,7 +4,7 @@
   "files": [
     "index.js",
     "README.md",
-    "rules/"
+    "config/"
   ],
   "main": "index.js",
   "scripts": {},
