@@ -1,6 +1,6 @@
 {
   "name": "@auritylab/eslint-config",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "files": [
     "index.js",
     "README.md",
