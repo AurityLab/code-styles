@@ -9,7 +9,7 @@
   "scripts": {},
   "dependencies": {
     "stylelint-config-recommended-scss": "^3.3.0",
-    "stylelint-scss": "^3.9.2",
+    "stylelint-scss": "^3.10.1",
     "stylelint-rscss": "^0.4.0"
   },
   "peerDependencies": {
