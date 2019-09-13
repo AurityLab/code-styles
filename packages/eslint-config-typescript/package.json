@@ -1,0 +1,36 @@
+{
+  "name": "@auritylab/eslint-config-typescript",
+  "version": "3.0.0",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "eslint-config-standard-with-typescript": "^9.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/parser": "^2.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^6.3.0",
+    "typescript": "^3.6.3"
+  },
+  "keywords": [
+    "code-styles",
+    "auritylab"
+  ],
+  "author": "AurityLab <info@auritylab.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AurityLab/code-styles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AurityLab/code-styles"
+  }
+}

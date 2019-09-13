@@ -1,6 +1,6 @@
 {
   "name": "@auritylab/code-styles",
-  "version": "2.1.5",
+  "version": "3.0.0",
   "private": true,
   "license": "Apache-2.0",
   "author": "AurityLab <info@auritylab.com>",
@@ -16,19 +16,15 @@
     "url": "https://github.com/AurityLab/code-styles/issues"
   },
   "workspaces": [
-    "./eslint",
-    "./stylelint"
+    "./packages/**"
   ],
   "scripts": {
-    "lint": "eslint eslint/ stylelint/ --ext .js",
+    "lint": "eslint packages/ --ext .js",
     "sort": "sort-package-json eslint/package.json stylelint/package.json package.json"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
+    "eslint": "^6.3.0",
+    "@auritylab/eslint-config-javascript": "^3.0.0",
     "oao": "^1.7.0",
     "sort-package-json": "^1.22.1"
   }
