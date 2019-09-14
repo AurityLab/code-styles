@@ -1,6 +1,6 @@
 {
   "name": "@auritylab/eslint-config-typescript",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "files": [
     "index.js",
     "README.md"
