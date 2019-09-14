@@ -1,4 +1,5 @@
 module.exports = {
+  parser: 'vue-eslint-parser',
   extends: [
     'plugin:vue/recommended'
   ],
@@ -8,7 +9,7 @@ module.exports = {
       switchCase: 0,
       ignores: []
     }],
-    'vue/html-indent': ['error', 2, { 'attribute': 2 }],
+    'vue/html-indent': ['error', 2, { attribute: 2 }],
     'vue/html-self-closing': ['error', {
       html: {
         void: 'never',

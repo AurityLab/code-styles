@@ -1,6 +1,6 @@
 {
-  "name": "@auritylab/eslint-config-vue",
-  "version": "3.0.0",
+  "name": "@auritylab/stylelint-config-rscss",
+  "version": "2.1.3",
   "files": [
     "index.js",
     "README.md"
@@ -8,16 +8,12 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "vue-eslint-parser": "^6.0.4",
-    "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-vue": "^5.2.3"
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-scss": "^3.10.1",
+    "stylelint-rscss": "^0.4.0"
   },
   "peerDependencies": {
-    "eslint": "^6.3.0"
+    "stylelint": "^10.0.0"
   },
   "keywords": [
     "code-styles",

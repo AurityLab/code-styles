@@ -16,11 +16,11 @@
     "url": "https://github.com/AurityLab/code-styles/issues"
   },
   "workspaces": [
-    "./packages/**"
+    "./packages/**",
+    "./test/**"
   ],
   "scripts": {
-    "lint": "eslint packages/ --ext .js",
-    "sort": "sort-package-json eslint/package.json stylelint/package.json package.json"
+    "lint": "eslint packages/ --ext .js"
   },
   "devDependencies": {
     "eslint": "^6.3.0",

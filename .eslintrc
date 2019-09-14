@@ -1,5 +1,5 @@
 {
   "extends": [
-    "./eslint/config/javascript.js"
+    "@auritylab/eslint-config-javascript"
   ]
 }
