@@ -23,7 +23,7 @@
     "lint": "eslint packages/ --ext .js"
   },
   "devDependencies": {
-    "eslint": "^6.3.0",
+    "eslint": "^6.4.0",
     "@auritylab/eslint-config-javascript": "^3.0.0",
     "oao": "^1.7.0",
     "sort-package-json": "^1.22.1"
