@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-config-recommended-scss": "^4.1.0",
     "stylelint-scss": "^3.11.0",
     "stylelint-rscss": "^0.4.0"
   },
