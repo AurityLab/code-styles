@@ -1326,9 +1326,9 @@ stylelint-rscss@^0.4.0:
     postcss-resolve-nested-selector "0.1.1"
     postcss-selector-parser "2.2.1"
 
-stylelint-scss@^3.11.0:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.11.0.tgz#243ec06f06674e58d946c73d65a277c06077501d"
+stylelint-scss@^3.15.0:
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.15.0.tgz#df873a1163b592ecbf985a84d598569222d67043"
   dependencies:
     lodash "^4.17.15"
     postcss-media-query-parser "^0.2.3"
