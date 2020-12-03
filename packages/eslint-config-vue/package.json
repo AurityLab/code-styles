@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "vue-eslint-parser": "^6.0.4",
+    "vue-eslint-parser": "^7.2.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
