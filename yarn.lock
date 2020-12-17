@@ -50,7 +50,7 @@
     "@typescript-eslint/typescript-estree" "2.3.0"
     eslint-scope "^5.0.0"
 
-"@typescript-eslint/parser@^2.0.0", "@typescript-eslint/parser@^2.2.0":
+"@typescript-eslint/parser@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-2.2.0.tgz#3cd758ed85ae9be06667beb61bbdf8060f274fb7"
   dependencies:
@@ -345,14 +345,14 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-config-standard-with-typescript@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-with-typescript/-/eslint-config-standard-with-typescript-9.0.0.tgz#961bbd4d43e4f7e772cb6d8bf728bf88c6bbbff3"
+eslint-config-standard-with-typescript@^11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard-with-typescript/-/eslint-config-standard-with-typescript-11.0.1.tgz#3285d60eae29181843b6e679d826719074763446"
   dependencies:
-    "@typescript-eslint/parser" "^2.0.0"
-    eslint-config-standard "^14.0.0"
+    "@typescript-eslint/parser" "^2.2.0"
+    eslint-config-standard "^14.1.0"
 
-eslint-config-standard@^14.0.0, eslint-config-standard@^14.1.0:
+eslint-config-standard@^14.1.0:
   version "14.1.0"
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-14.1.0.tgz#b23da2b76fe5a2eba668374f246454e7058f15d4"
 
