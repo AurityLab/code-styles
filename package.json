@@ -25,7 +25,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "@auritylab/eslint-config-javascript": "^3.0.0",
-    "oao": "^2.0.0",
+    "oao": "^2.0.1",
     "sort-package-json": "^1.48.1"
   }
 }
