@@ -1193,9 +1193,9 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
-oao@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/oao/-/oao-2.0.1.tgz#47b3d83fa67c4300f467c62d3b69d32480f9e2df"
+oao@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/oao/-/oao-2.0.2.tgz#c837a49e17e01416a94d0255b69e9a79a568b94b"
   dependencies:
     commander "2.19.0"
     execa "0.6.3"
@@ -1205,7 +1205,7 @@ oao@^2.0.1:
     minimatch "^3.0.4"
     rimraf "2.6.3"
     semver "5.6.0"
-    shelljs "0.7.8"
+    shelljs "^0.8.4"
     split "1.0.1"
     storyboard "^3.3.1"
     storyboard-listener-console "^3.3.1"
@@ -1523,9 +1523,9 @@ shebang-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
 
-shelljs@0.7.8:
-  version "0.7.8"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.7.8.tgz#decbcf874b0d1e5fb72e14b164a9683048e9acb3"
+shelljs@^0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.4.tgz#de7684feeb767f8716b326078a8a00875890e3c2"
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
